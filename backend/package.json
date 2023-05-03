@@ -1,5 +1,5 @@
 {
-  "name": "netclan_api",
+  "name":"",
   "version": "1.0.0",
   "description": "An api that gets data for visualization from the database",
   "main": "app.js",
@@ -11,7 +11,7 @@
   "keywords": [
     "data visualization"
   ],
-  "author": "Chidiebere Ernest",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
